@@ -45,5 +45,12 @@ session_start();
     <body> 
         <h1 id="heading_1"> DISRELTO </h1> <br>
         <h2 id="heading_2"> Making your distanced relationship easier </h2>  
+
+		<a href="login.php">
+		<button id="loginbtn"> Login </button>
+		</a>
+
+
+		
        
     </body>
